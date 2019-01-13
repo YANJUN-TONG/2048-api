@@ -22,3 +22,4 @@ sbatch run.sh
 运行时间可以在文件内修改
 
 测试：可以直接通过evaluate.py进行测试，或者通过webapp.py观察结果，测试与训练是完全分离的。
+python evaluate.py >> 1.log

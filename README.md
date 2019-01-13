@@ -1,5 +1,4 @@
-# 2048-api
-A 2048 api for training supervised learning (imitation learning) or reinforcement learning agents
+
 运行方式：
 首先，通过git clone将文件复制到您的本地文件夹
 然后，在2048-api/game2048/train.py中修改'sys.path.append'中的路径为您当前game2048文件夹所处的绝对路径，之后可以开始运行
